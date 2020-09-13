@@ -3,5 +3,5 @@ const sayHello = () => {
 };
 
 const sayGoogbye = () => {
-  // say goodbye
+  console.log('goodbye');
 };
