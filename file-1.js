@@ -11,4 +11,5 @@ const randFunc = () => {
 };
 const sayRand = () => {
   console.log(randFunc);
+  console.log(sayHello);
 };
