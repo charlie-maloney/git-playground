@@ -9,3 +9,6 @@ const sayGoogbye = () => {
 const randFunc = () => {
   return Math.random();
 };
+const sayRand = () => {
+  console.log(randFunc);
+};
