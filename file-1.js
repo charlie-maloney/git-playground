@@ -5,3 +5,7 @@ const sayHello = () => {
 const sayGoogbye = () => {
   console.log('goodbye');
 };
+
+const randFunc = () => {
+  return Math.random();
+};
