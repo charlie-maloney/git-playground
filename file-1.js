@@ -13,3 +13,7 @@ const sayRand = () => {
   console.log(randFunc);
   console.log(sayHello);
 };
+
+const iDoNothing = () => {
+  console.log('nothing');
+};
