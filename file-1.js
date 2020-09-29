@@ -15,5 +15,6 @@ const sayRand = () => {
 };
 
 const iDoNothing = () => {
+  // here are pointless comments
   console.log('nothing');
 };
